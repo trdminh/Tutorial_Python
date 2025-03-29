@@ -2,6 +2,7 @@
 - [Python tutorial for beginner](https://www.youtube.com/watch?v=qwAFL1597eM)
 - [Python Advance](https://www.youtube.com/watch?v=Yrtm7d3TJbs)
 - [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python/tree/master)
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days)
 - [Greedy Algorithms Tutorial](https://www.youtube.com/watch?v=bC7o8P_Ste4)
 - [Data Structures and Algorithms in Python](https://jovian.ai/learn/data-structures-and-algorithms-in-python)
 - [Docker Containers and Kubernetes Fundamentals](https://www.youtube.com/watch?v=kTp5xUtcalw)
