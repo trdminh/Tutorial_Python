@@ -1,4 +1,4 @@
-# Tutorial_for_python
+# Tutorial
 - [Python tutorial for beginner](https://www.youtube.com/watch?v=qwAFL1597eM)
 - [Python Advance](https://www.youtube.com/watch?v=Yrtm7d3TJbs)
 - [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python/tree/master)
