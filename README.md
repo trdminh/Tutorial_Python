@@ -29,3 +29,4 @@
 - [Real Estate Insights: A Guide to Address Matching with NLP in Python](https://mlconference.ai/blog/address-matching-with-nlp-in-python/)
 - [Using Python for Address Matching: How To + the 6 Best Methods](https://www.placekey.io/blog/address-matching-python)
 - [MongoDB Atlas Full-Text Search](https://github.com/afsungur/mongodb-atlas-fts)
+- [MongoDB Atlas Search](https://www.mongodb.com/docs/atlas/atlas-search)
