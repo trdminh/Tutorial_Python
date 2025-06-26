@@ -6,7 +6,7 @@
 - [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python/tree/master)
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days)
 - [Greedy Algorithms Tutorial](https://www.youtube.com/watch?v=bC7o8P_Ste4)
-- [Data Structures and Algorithms in Python](https://jovian.ai/learn/data-structures-and-algorithms-in-python)
+- [Data Structures and Algorithms in Python]([https://jovian.ai/learn/data-structures-and-algorithms-in-python](https://www.youtube.com/watch?v=Jh4t9o2y_pw&list=PLyMom0n-MBrqFwguQhbCu0Anlxoel08dr))
 - [Docker Containers and Kubernetes Fundamentals](https://www.youtube.com/watch?v=kTp5xUtcalw)
 ## AI ML/DL
 - [Harvard CS50’s Artificial Intelligence](https://www.youtube.com/watch?v=5NgNicANyqM)
