@@ -7,6 +7,7 @@ All tutorials are supported you become AI and backend developer.
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days)
 - [Greedy Algorithms Tutorial](https://www.youtube.com/watch?v=bC7o8P_Ste4)
 - [Data Structures and Algorithms in Python](https://www.youtube.com/watch?v=Jh4t9o2y_pw&list=PLyMom0n-MBrqFwguQhbCu0Anlxoel08dr)
+- [Using Python for Address Matching: How To + the 6 Best Methods](https://www.placekey.io/blog/address-matching-python)
 ## Docker and Kubernetes
 - [Docker Containers and Kubernetes Fundamentals](https://www.youtube.com/watch?v=kTp5xUtcalw)
 ## AI ML/DL
@@ -17,6 +18,7 @@ All tutorials are supported you become AI and backend developer.
 - [clip](https://huggingface.co/docs/transformers/model_doc/clip)
 - [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch?tab=readme-ov-file#tutorials)
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+- [Real Estate Insights: A Guide to Address Matching with NLP in Python](https://mlconference.ai/blog/address-matching-with-nlp-in-python/)
 ## MongoDB
 - [Tutorial: Using Motor With asyncio](https://motor.readthedocs.io/en/stable/tutorial-asyncio.html)
 - [mongodb-with-fastapi](https://github.com/mongodb-developer/mongodb-with-fastapi/tree/master)
@@ -25,12 +27,11 @@ All tutorials are supported you become AI and backend developer.
 - [MongoDB Query an Array](https://www.geeksforgeeks.org/mongodb-query-an-array/)
 - [Bulk Write Operations](https://motor.readthedocs.io/en/stable/examples/bulk.html)
 - [Aperol Spritz Summer With MongoDB Geospatial Queries & Vector Search](https://www.mongodb.com/developer/products/mongodb/geospatial-queries-vector-search/)
-- [full-stack-fastapi-mongodb](https://github.com/mongodb-labs/full-stack-fastapi-mongodb)
 - [Securing ML APIs with FastAPI](https://python.plainenglish.io/securing-ml-apis-with-fastapi-8e57d79c0a4f)
-## Web
-- [Kortix – Open Source Platform to Build, Manage and Train AI Agents](https://github.com/kortix-ai/suna)
-- [Real Estate Insights: A Guide to Address Matching with NLP in Python](https://mlconference.ai/blog/address-matching-with-nlp-in-python/)
-- [Using Python for Address Matching: How To + the 6 Best Methods](https://www.placekey.io/blog/address-matching-python)
 - [MongoDB Atlas Full-Text Search](https://github.com/afsungur/mongodb-atlas-fts)
 - [MongoDB Atlas Search](https://www.mongodb.com/docs/atlas/atlas-search)
 - [MongoDB Search with multi collections](https://www.mongodb.com/docs/atlas/atlas-search/tutorial/cross-collection-tutorials/)
+## Web
+- [Kortix – Open Source Platform to Build, Manage and Train AI Agents](https://github.com/kortix-ai/suna)
+- [full-stack-fastapi-mongodb](https://github.com/mongodb-labs/full-stack-fastapi-mongodb)
+
