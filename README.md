@@ -27,6 +27,8 @@ All tutorials are supported you become AI and backend developer.
 - [Aperol Spritz Summer With MongoDB Geospatial Queries & Vector Search](https://www.mongodb.com/developer/products/mongodb/geospatial-queries-vector-search/)
 - [full-stack-fastapi-mongodb](https://github.com/mongodb-labs/full-stack-fastapi-mongodb)
 - [Securing ML APIs with FastAPI](https://python.plainenglish.io/securing-ml-apis-with-fastapi-8e57d79c0a4f)
+## Web
+- [Kortix – Open Source Platform to Build, Manage and Train AI Agents](https://github.com/kortix-ai/suna)
 - [Real Estate Insights: A Guide to Address Matching with NLP in Python](https://mlconference.ai/blog/address-matching-with-nlp-in-python/)
 - [Using Python for Address Matching: How To + the 6 Best Methods](https://www.placekey.io/blog/address-matching-python)
 - [MongoDB Atlas Full-Text Search](https://github.com/afsungur/mongodb-atlas-fts)
