@@ -34,4 +34,6 @@ All tutorials are supported you become AI and backend developer.
 ## Web
 - [Kortix – Open Source Platform to Build, Manage and Train AI Agents](https://github.com/kortix-ai/suna)
 - [full-stack-fastapi-mongodb](https://github.com/mongodb-labs/full-stack-fastapi-mongodb)
+## Email API
+- [Send email with mailtrap](https://github.com/railsware/mailtrap-python/blob/main/README.md)
 
